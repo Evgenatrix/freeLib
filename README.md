@@ -29,7 +29,7 @@ sudo apt update && sudo apt-get install git cmake build-essential qt6-base-dev l
 ```
 Скачать исходники программы:
 ```
-git clone --recurse-submodules https://github.com/petrovvlad/freeLib.git
+git clone --recurse-submodules https://github.com/Evgenatrix/freeLib.git
 ```
 Собрать  и установить:
 ```
